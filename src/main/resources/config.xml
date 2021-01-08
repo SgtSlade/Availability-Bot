@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+    <autofiller>
+        <fname>
+            Franciszek
+        </fname>
+        <lname>
+            Słotwiński
+        </lname>
+        <email>
+            sergeantslade@gmail.com
+        </email>
+        <street>
+            Nutki
+        </street>
+        <house>
+            1
+        </house>
+        <apartment>
+            1
+        </apartment>
+        <postcode>
+            02785
+        </postcode>
+        <city>
+            Warszawa
+        </city>
+        <phone>
+            797257547
+        </phone>
+    </autofiller>
+
+    <resourcePath>
+        src/main/resources
+    </resourcePath>
+</options>
