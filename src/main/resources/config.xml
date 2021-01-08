@@ -2,16 +2,16 @@
 <options>
     <autofiller>
         <fname>
-            Franciszek
+            Firstname
         </fname>
         <lname>
-            Słotwiński
+            Lastname
         </lname>
         <email>
-            sergeantslade@gmail.com
+            exampleemail@gmail.com
         </email>
         <street>
-            Nutki
+            Streetname
         </street>
         <house>
             1
@@ -20,13 +20,13 @@
             1
         </apartment>
         <postcode>
-            02785
+            11111
         </postcode>
         <city>
-            Warszawa
+            Examplecity
         </city>
         <phone>
-            797257547
+            111111111
         </phone>
     </autofiller>
 
